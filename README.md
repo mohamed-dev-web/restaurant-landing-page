@@ -13,7 +13,7 @@ A modern and responsive restaurant landing page built using HTML, CSS, and JavaS
 - JavaScript
 
 ## 📸 Preview
-(Add screenshots here)
+Link : https://bitebliss-ui.netlify.app
 
 ## 📂 Project Structure
 - index.html
